@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @supanun-jsk
-- 👀 Coffee saved my day
+- ☕️ Coffee saved my day
 
 <!---
 supanun-jsk/supanun-jsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
